@@ -57,7 +57,7 @@
   /* Mission Statement Styles */ 
   .mission {
     height: 700px;
-    width: 1200px;
+    width: 100%;
     background-image: url("img-mission-background.png");
     background-position: center;
     background-repeat: no-repeat;
